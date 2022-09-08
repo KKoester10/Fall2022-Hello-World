@@ -27,7 +27,7 @@ Console.WriteLine("Hello, World!");
 // var/variableType variableName = value; 
     var age = 24;
     Console.WriteLine(age);
-
+//----------------------------------------------------------------------------------------------------------------------------
 // Operators 
 // Performs some kind of operation/action on some values
 //examples 5 + 13 -> 18
@@ -48,11 +48,18 @@ Console.WriteLine("Hello, World!");
 // Modulo: %
 // -- Returns the remainder after dividing by a particular number
     var time = 13 % 12; //time has a value of 1 here.
-// Equality
 
-// comparison
+// Equality operators:
+// Equality -> '==' & Inequality -> '!='
 
-// Incrementing 
+// comparison operators:
+// greater than -> '<'
+// greater than or equal -> '<='
+// less than -> '>'
+// less than or equal -> '>='
+
+// Incrementing:
+// de-incrementing -> i-- & Incrementing -> i++ 
 
 
 //white space does not matter.
