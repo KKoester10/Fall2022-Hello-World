@@ -32,8 +32,8 @@ Console.WriteLine("Hello, World!");
 // Performs some kind of operation/action on some values
 //examples 5 + 13 -> 18
 
-// Assignment Operator
-// Single equal sign
+// Assignment Operator:
+// Single equal sign '='
 // Use this to assign the value of a variable
 
 // Arithmetic:
@@ -65,7 +65,7 @@ Console.WriteLine("Hello, World!");
 // AND -> &&
 // OR -> ||
 
-
+//--------------------------------------------------------------------------------------------------------------------------------
 
 //white space does not matter.
 Console.WriteLine("Hello World , My name is Kolton" + " yes theses things matter");
