@@ -61,6 +61,11 @@ Console.WriteLine("Hello, World!");
 // Incrementing:
 // de-incrementing -> i-- & Incrementing -> i++ 
 
+// Logical:
+// AND -> &&
+// OR -> ||
+
+
 
 //white space does not matter.
 Console.WriteLine("Hello World , My name is Kolton" + " yes theses things matter");
