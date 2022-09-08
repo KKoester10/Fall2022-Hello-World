@@ -96,13 +96,15 @@ Console.WriteLine("Hello, World!");
 // true ^ true -> false
 // false ^ false -> false
 
+// Incrementing/compound operators:
+// +=, -=, *=, /=, %=
+// de-incrementing -> i-- & Incrementing -> i++, += / =+ (slight difference)  
+
 // Parsing 
 //Trasforming a variable from another type (often a string) into another (often an integer)
 var parsedValue = int.Parse("15");// Integer
     Console.WriteLine(parsedValue + 5);
 
-// Incrementing:
-// de-incrementing -> i-- & Incrementing -> i++ 
 
 
 //--------------------------------------------------------------------------------------------------------------------------------
